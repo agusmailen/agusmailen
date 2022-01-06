@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hi, I'm Agustina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>---> Full Stack Developer Jr ✨<h2>
+ 
+  
+```javascript
+let Agustina = {
+  nickname: "Agus",
+  languages: [HTML, SCSS, Javascript, Python],
+  tools: [React, Redux, Node, Express, MaterialUI],
+  databases: [MongoDB]
+}
+```
+  
+You can find me 🌎:
+<ul dir="auto">
+  <li><a href="https://www.linkedin.com/in/agustina-marrapodi/" rel="nofollow">LinkedIn</a></li>
+</ul>
+  
+![34fbb9aa7bfeb8df98412067d64c2029](https://user-images.githubusercontent.com/65791688/148327071-66d7d83e-354a-4a8a-9ddd-ad1fe438aea9.gif)
 
-<!--
-**agusmailen/agusmailen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for dropping by! ❤️
+ 
