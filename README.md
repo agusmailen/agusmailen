@@ -5,7 +5,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
-let Agustina = {
+const Agustina = {
   nickname: "Agus",
   languages: [HTML, SCSS, Javascript, Python],
   tools: [React, Redux, Node, Express, MaterialUI],
