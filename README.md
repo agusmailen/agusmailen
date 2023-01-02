@@ -9,7 +9,7 @@ const Agustina = {
   nickname: "Agus",
   languages: [HTML, SCSS, Javascript, Python],
   tools: [React, Redux, Node, Express, MaterialUI],
-  databases: [MongoDB]
+  databases: [MongoDB, SQL]
 }
 ```
   
